@@ -13,5 +13,5 @@
             </div>
         </div>
       </section>
-      <?php include ('includes/health-product.php'); ?>
+      <?php include ('includes/software-product.php'); ?>
 <?php include ('includes/footer.php'); ?>

@@ -27,14 +27,11 @@
                     </div>
                     <div class="col-sm-3 top-form">
                         <br>
-                        <a href="#" class="green-btn">REGISTER NOW</a>
-                        <a href="#" class="green-btn">SIGN IN</a>
+                        <a href="http://edusmarte.com/member/" class="green-btn">REGISTER NOW</a>
+                        <a href="http://edusmarte.com/member/" class="green-btn">SIGN IN</a>
                     </div>
                 </div>
-                <br />
-                <div class="alert alert-success" id="success-alert">
-                    We have officially launched on 25 May 2020.
-                </div>
+                 
           </div>
           <nav id="navbar" class="navbar navbar-expand-lg navbar-dark">
               <div class="container">
@@ -45,7 +42,7 @@
               <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav">
                   <li class="nav-item active">
-                    <a class="nav-link" href="index.php#welcome">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="about-vedusmart.php">About Us</a>
@@ -83,22 +80,22 @@
                 <div class="carousel-item active">
                   <img src="images/slider1.jpg" class="d-block w-100" alt="...">
                   <div class="carousel-caption d-none d-md-block">
-                    <h5>First slide label</h5>
-                    <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                    <h5></h5>
+                    <p></p>
                   </div>
                 </div>
                 <div class="carousel-item">
                   <img src="images/slider2.jpg" class="d-block w-100" alt="...">
                   <div class="carousel-caption d-none d-md-block">
-                    <h5>Second slide label</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <h5></h5>
+                    <p></p>
                   </div>
                 </div>
                 <div class="carousel-item">
                   <img src="images/slider3.jpg" class="d-block w-100" alt="...">
                   <div class="carousel-caption d-none d-md-block">
-                    <h5>Third slide label</h5>
-                    <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                    <h5></h5>
+                    <p></p>
                   </div>
                 </div>
               </div>

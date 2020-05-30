@@ -42,8 +42,8 @@
                 <div class="col-sm-3">
                     <h3>Quick Links</h3>
                       <ul>
-                          <li><a href="index.html">Home</a></li>
-                          <li><a href="about-vedusmart.html">About V-edusmart</a></li>
+                          <li><a href="/">Home</a></li>
+                          <li><a href="about-vedusmart.php">About V-edusmart</a></li>
                           <li><a href="images/VedusmartPlan.pdf">Business Opportunity</a></li>
                           <li><a href="contact-us.php">Contact Us</a></li>
                           <li><a href="#">Legal</a></li>
@@ -52,10 +52,10 @@
                 <div class="col-sm-3">
                     <h3>Useful Info</h3>
                     <ul>
-                      <li><a href="demo.aspx.html">Live Demo</a></li>
-                      <li><a href="software.aspx.html">Educational Software</a></li>
-                      <li><a href="alkaline_water_purifier.aspx.html">Ionized Alkaline Water Purifier</a></li>
-                      <li><a href="healthcare.aspx.html">Healthcare Products</a></li>
+                      <li><a href="demo.php">Live Demo</a></li>
+                      <li><a href="educational-software.php">Educational Software</a></li>
+                      <li><a href="educational-software.php">Ionized Alkaline Water Purifier</a></li>
+                      <li><a href="healthcare-products.php">Healthcare Products</a></li>
                       <li><a href="images/VedusmartPlan.pdf"><img src="images/pdf.png"></a></li>
                   </ul>
                 </div>

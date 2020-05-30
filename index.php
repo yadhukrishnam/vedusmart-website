@@ -69,15 +69,17 @@
                          <h3>NEWS & EVENTS</h3>
                       </div>
                       <p>
-                          <ul>
-                                <li>Helps the parents to save money by avoiding costly tuition and save time.</li>
-                                <li>Parents can evaluate the knowledge level of their childrens.</li>
-                                <li>They can guide students to learn topics.</li>
-                                <li>Protects students from going for tuition in an unorganized place.</li>
-                                <li>Helps the parents to save money by avoiding costly tuition and save time.</li>
-                                <li>Parents can evaluate the knowledge level of their childrens.</li>
-                                <li>They can guide students to learn topics.</li>
+                      <marquee behavior="scroll" direction="up"> 
+<ul>
+                                <li>We have opened the door of oppotunity to the public on 25.05.2020</li>
+                                <li>Rare opportunity in direct marketing</li>
+                                <li>Lest work and high benefits.  </li>
+                                <li>5 Star income benefits and chance to be part of company!</li>
+                                <li>Qualify easily and go into autopool</li>
+                                <li>No more hassle of team building</li>
+                                <li>Finall a best product at very nominal price!</li>
                           </ul>
+                      </marquee>
                       </p>
                   </div>
                   <div class="col-sm-5">
@@ -94,22 +96,28 @@
                    <h2>AUTOPOOL ACHIEVERS</h2>
                 </div>
                 <div class="row">
-                  <div class="col-sm-4">
+                  <div class="col-sm-3">
                     <div class="box">
                         <img src="images/w1.jpg" />
                         <h2>Harinath</h2>
                     </div>
                   </div>
-                  <div class="col-sm-4">
+                  <div class="col-sm-3">
                       <div class="box">
                           <img src="images/w2.jpg" />
                           <h2>Dileep Kumar</h2>
                       </div>
                   </div>
-                  <div class="col-sm-4">
+                  <div class="col-sm-3">
                       <div class="box">
                           <img src="images/w3.jpg" />
-                          <h2>Muhammed Rashid</h2>
+                          <h2>M. Rashid</h2>
+                      </div>
+                  </div>
+                   <div class="col-sm-3">
+                      <div class="box">
+                          <img src="images/w4.jpg" />
+                          <h2>S. K. Hameed</h2>
                       </div>
                   </div>
               </div>
