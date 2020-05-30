@@ -491,3 +491,10 @@ footer:after {
 .contact-address {
   text-align: center;
 }
+
+.overflow {
+  max-height: 800px;
+  width: 95%;
+  margin:0px auto;
+  overflow-y: scroll;
+}

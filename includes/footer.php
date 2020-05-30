@@ -46,7 +46,7 @@
                           <li><a href="about-vedusmart.php">About V-edusmart</a></li>
                           <li><a href="images/VedusmartPlan.pdf">Business Opportunity</a></li>
                           <li><a href="contact-us.php">Contact Us</a></li>
-                          <li><a href="#">Legal</a></li>
+                          <li><a href="legal-information.php">Legal</a></li>
                       </ul>
                 </div>
                 <div class="col-sm-3">
