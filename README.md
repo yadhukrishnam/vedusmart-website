@@ -1,2 +1,2 @@
 # vedusmart-website
-Repository that hosts Vedusmart website
+The repository that hosts the files of vedusmart.com website.
