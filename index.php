@@ -56,10 +56,7 @@
           </div>
       </section>
       <?php
-        if (rand(1,2) == 1)
           include('includes/software-product.php');
-        else
-          include('includes/health-product.php');
       ?>
       <section class="news">
           <div class="container">
