@@ -188,7 +188,7 @@ header
     -o-box-shadow: 0px 56px 36px -60px #121D12;
     margin-top: 20px;
     transition: all 0.2s ease-in-out;
-    height: 100%;
+    
 }
 
 .box img {
@@ -489,7 +489,9 @@ footer:after {
     .box{
         overflow-x: scroll;
         max-width: 100%;
+        margin-top: 10px;
     }
+
 }
 
 #gmap_canvas {

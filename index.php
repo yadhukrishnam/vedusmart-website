@@ -66,8 +66,8 @@
                          <h3>NEWS & EVENTS</h3>
                       </div>
                       <p>
-                      <marquee behavior="scroll" direction="up"> 
-<ul>
+                      <marquee behavior="scroll" direction="up" onmouseover="this.stop();" onmouseout="this.start();">
+                          <ul>
                                 <li>We have opened the door of oppotunity to the public on 25.05.2020</li>
                                 <li>Rare opportunity in direct marketing</li>
                                 <li>Lest work and high benefits.  </li>
