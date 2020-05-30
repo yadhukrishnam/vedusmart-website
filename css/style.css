@@ -187,6 +187,7 @@ header
     -o-box-shadow: 0px 56px 36px -60px #121D12;
     margin-top: 20px;
     transition: all 0.2s ease-in-out;
+    height: 100%;
 }
 
 .box img {
@@ -291,7 +292,7 @@ body::after{
 
 }
 .testimonial {
-    background: #323A45  url('../images/map-image.png') fixed ;
+    background: #18191a  url('../images/map-image.png') fixed ;
 
 }
 .testimonial h1{
@@ -371,8 +372,7 @@ footer:after {
 }
 
 .copyright {
-    background: rgb(50,58,69);
-    background: linear-gradient(344deg, rgba(50,58,69,1) 0%, rgba(17,21,27,1) 100%);
+    background: #18191a;
     padding: 25px
 }
 

@@ -56,9 +56,7 @@
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Products</a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                       <a class="dropdown-item" href="educational-software.php">Educational Software</a>
-
                       <a class="dropdown-item" href="healthcare-products.php">Healthcare</a>
-
                       <a class="dropdown-item" href="alkaline-water-purifier.php">Alkaline Water Purifier</a>
                      </div>
                   </li>
