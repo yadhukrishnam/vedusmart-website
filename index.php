@@ -68,13 +68,13 @@
                       <p>
                       <marquee behavior="scroll" direction="up" onmouseover="this.stop();" onmouseout="this.start();">
                           <ul>
-                                <li>We have opened the door of oppotunity to the public on 25.05.2020</li>
-                                <li>Rare opportunity in direct marketing</li>
-                                <li>Lest work and high benefits.  </li>
-                                <li>5 Star income benefits and chance to be part of company!</li>
-                                <li>Qualify easily and go into autopool</li>
-                                <li>No more hassle of team building</li>
-                                <li>Finall a best product at very nominal price!</li>
+                                <li><span class="fa fa-thumbs-up"></span> We have opened the door of oppotunity to the public on 25.05.2020</li>
+                                <li><span class="fa fa-thumbs-up"></span> Rare opportunity in direct marketing</li>
+                                <li><span class="fa fa-thumbs-up"></span> Less work and high benefits.  </li>
+                                <li><span class="fa fa-thumbs-up"></span> 5 Star income benefits and chance to be part of company!</li>
+                                <li><span class="fa fa-thumbs-up"></span> Qualify easily and get into autopool.</li>
+                                <li><span class="fa fa-thumbs-up"></span> No more hassle of team building. </li>
+                                <li><span class="fa fa-thumbs-up"></span> Find best products at very nominal price!</li>
                           </ul>
                       </marquee>
                       </p>
