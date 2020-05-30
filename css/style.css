@@ -294,7 +294,6 @@ body::after{
 }
 .testimonial {
     background: #18191a  url('../images/map-image.png') fixed ;
-
 }
 .testimonial h1{
     font-size: 2em;
@@ -333,6 +332,15 @@ footer h3
     text-transform: uppercase;
     font-family: 'Roboto', sans-serif;
     margin-bottom: 20px;
+}
+
+.footer-logo {
+    opacity: 0.5;
+    width: 80%
+}
+
+.footer-logo:hover {
+    opacity: 1;
 }
 
 footer ul li a {
@@ -374,7 +382,7 @@ footer:after {
 
 .copyright {
     background: #18191a;
-    padding: 25px
+    padding: 25px;
 }
 
 .copyright p {

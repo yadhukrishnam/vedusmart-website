@@ -37,7 +37,9 @@
                           Don't sell products, provide solutions.<br>
                           Always optimize your pricing. Hire friendly customer-facing staff.<br>
                           Stay open even longer.<br>
+
                   </p>
+                  <img src="images/logo.png" class="footer-logo" />
                 </div>
                 <div class="col-sm-3">
                     <h3>Quick Links</h3>
