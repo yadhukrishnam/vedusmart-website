@@ -8,7 +8,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="description" content="V-edusmart infotech is fastest growing direct marketing company our commitment is to facilitate usage of educational and healthcare products."/>
     <meta name="keywords" content="Best Top 15 direct marketing Company, Best Top 15 MLM Company, Best MLM Company in India, MLM company in India, Best Product Based directr marketing Company in Andra Pradesh India, MLM company in Telungana, MLM company in Jharkhand, MLM company in UP, Product MLM company, fastest Growing direct marketing company in India"/>
-    <link rel="canonical" href="http://www.vedusmart.com/" />
+    <link rel="canonical" href="https://www.vedusmart.com/" />
     <meta name="robots" content="follow, index, all" />
     <meta name="distribution" content="Global" />
     <meta name="language" content="EN-US" />
@@ -16,8 +16,8 @@
     <meta name="theme-color" content="#323A45">
     <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css' />
-    <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css' />
+    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css' />
+    <link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css' />
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" type="text/css" href="css/boxCss.css">
   </head>
