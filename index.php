@@ -10,7 +10,7 @@
         </div>
       </section>
       <section class="main">
-          <div class="container">
+          <div class="container-fluid">
               <div class="content">
                   <div class="products-heading">
                    <h2>HOW IT WORKS</h2>
@@ -34,11 +34,9 @@
                           <img src="images/grids-img2.jpg" />
                           <h3>TEACHERS</h3>
                           <p>
-                              Helps the parents to save money by avoiding costly tuition and save time.<br>
-                              Parents can evaluate the knowledge level of their childrens.<br>
-                              They can guide students to learn topics.<br>
-                              Protects students from going for tuition in an unorganized place.<br>
-                          </p>
+                            It enables the teachers to demonstrate, explain and reinforce abstract ideas by using animated pictures, charts, posters, graphics and motion videos.<br />
+                            It helps the teachers to evaluate the performance of each of their students.<br />
+                            It enhance the reputation of teachers as it helps to avoid tuition.</p>
                           <a href="#" class="green-btn">READ MORE</a>
                       </div>
                   </div>
@@ -47,44 +45,22 @@
                           <img src="images/grids-img3.jpg" />
                           <h3>STUDENTS</h3>
                           <p>
-                              Helps the parents to save money by avoiding costly tuition and save time.<br>
-                              Parents can evaluate the knowledge level of their childrens.<br>
-                              They can guide students to learn topics.<br>
-                              Protects students from going for tuition in an unorganized place.<br>
-                          </p>
+                            Helps the students to build interest in learning the subjects<br />
+                            Helps the students to remember topics learned.<br />
+                            It provides opportunity to understand and internalize the basic concepts through animated objects, pictures, graphics.<br />
+                            It shows practical applications and save time.<br></p>
                           <a href="#" class="green-btn">READ MORE</a>
                       </div>
                   </div>
               </div>
           </div>
       </section>
-      <section class="products">
-          <div class="content">
-              <div class="products-heading">
-				 <h3>CBSE, ICSE &amp; STATE</h3>
-			  </div>
-
-              <div class="container">
-                  <div class="row content">
-                      <div class="col-sm-4">
-                        <div class="box">
-                            <img src="images/grids-img4.jpg" />
-                        </div>
-                      </div>
-                      <div class="col-sm-4">
-                          <div class="box">
-                              <img src="images/grids-img5.jpg" />
-                          </div>
-                      </div>
-                      <div class="col-sm-4">
-                          <div class="box">
-                              <img src="images/grids-img6.jpg" />
-                          </div>
-                      </div>
-                  </div>
-              </div>
-          </div>
-      </section>
+      <?php
+        if (rand(1,2) == 1)
+          include('includes/software-product.php');
+        else
+          include('includes/health-product.php');
+      ?>
       <section class="news">
           <div class="container">
               <div class="row content">

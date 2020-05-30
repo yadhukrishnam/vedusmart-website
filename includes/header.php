@@ -3,7 +3,16 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <title>V-edusmart Infotech Leading Direct Marketing Company In India</title>
+    <title>V-edusmart Infotech Leading Direct Marketing Company In India</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="V-edusmart infotech is fastest growing direct marketing company our commitment is to facilitate usage of educational and healthcare products."/>
+    <meta name="keywords" content="Best Top 15 direct marketing Company, Best Top 15 MLM Company, Best MLM Company in India, MLM company in India, Best Product Based directr marketing Company in Andra Pradesh India, MLM company in Telungana, MLM company in Jharkhand, MLM company in UP, Product MLM company, fastest Growing direct marketing company in India"/>
+    <link rel="canonical" href="http://www.vedusmart.com/ " />
+    <meta name="robots" content="follow, index, all" />
+    <meta name="distribution" content="Global" />
+    <meta name="language" content="EN-US" />
+    <meta name="doc-type" content="Public" />
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css' />
     <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css' />
@@ -27,15 +36,16 @@
                     We have officially launched on 25 May 2020.
                 </div>
           </div>
-          <nav id="navbar" class="navbar navbar-expand-lg navbar-dark bg-dark ">
+          <nav id="navbar" class="navbar navbar-expand-lg navbar-dark">
               <div class="container">
               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
+                MENU
               </button>
               <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav">
                   <li class="nav-item active">
-                    <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="index.php#welcome">Home <span class="sr-only">(current)</span></a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="about-vedusmart.php">About Us</a>
@@ -43,8 +53,15 @@
                   <li class="nav-item">
                     <a class="nav-link" href="VedusmartPlan.pdf">Business</a>
                   </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="our-products.php">Products</a>
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Products</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                      <a class="dropdown-item" href="educational-software.php">Educational Software</a>
+
+                      <a class="dropdown-item" href="healthcare-products.php">Healthcare</a>
+
+                      <a class="dropdown-item" href="alkaline-water-purifier.php">Alkaline Water Purifier</a>
+                     </div>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="contact-us.php">Contact Us</a>

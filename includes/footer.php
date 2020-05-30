@@ -1,5 +1,5 @@
 <section class="testimonial">
-      <div class="container">
+      <div class="container-fluid">
           <div class="content text-center">
               <h1>TESTIMONIALS</h1>
               <div class="bd-example">
@@ -29,23 +29,24 @@
 </section>
 <footer>
     <section class="links">
-        <div class="container">
+        <div class="container-fluid">
             <div class="row content">
                 <div class="col-sm-3">
                     <h3>Business Tips</h3>
                     <p>Focus on leads, not sales.<br>
                           Don't sell products, provide solutions.<br>
                           Always optimize your pricing. Hire friendly customer-facing staff.<br>
-                          Stay open even longer
+                          Stay open even longer.<br>
                   </p>
                 </div>
                 <div class="col-sm-3">
                     <h3>Quick Links</h3>
                       <ul>
                           <li><a href="index.html">Home</a></li>
-                          <li><a href="aboutus.aspx.html">About V-edusmart</a></li>
+                          <li><a href="about-vedusmart.html">About V-edusmart</a></li>
                           <li><a href="images/VedusmartPlan.pdf">Business Opportunity</a></li>
-                          <li><a href="register.aspx.html">Legal</a></li>
+                          <li><a href="contact-us.php">Contact Us</a></li>
+                          <li><a href="#">Legal</a></li>
                       </ul>
                 </div>
                 <div class="col-sm-3">
@@ -55,17 +56,21 @@
                       <li><a href="software.aspx.html">Educational Software</a></li>
                       <li><a href="alkaline_water_purifier.aspx.html">Ionized Alkaline Water Purifier</a></li>
                       <li><a href="healthcare.aspx.html">Healthcare Products</a></li>
+                      <li><a href="images/VedusmartPlan.pdf"><img src="images/pdf.png"></a></li>
                   </ul>
                 </div>
                 <div class="col-sm-3">
                     <h3>Contact Us</h3>
-                    <p>Tel: <a class="email-link" href="callto:91234567890">+91 234-567-890</a> <br>
-                        Cel: <a class="email-link" href="callto:91234567890">+91 9946062128 </a> <br>
-
-                  Email: <a class="email-link" href="mailto:info@vedusmart.com">info@vedusmart.com</a></p>
-                  <a href="images/VedusmartPlan.pdf">
-                      <img src="images/pdf.png"></a>
-                  </p>
+                    <p>
+                      V-edusmart Infotech Pvt Ltd, <br>
+                      D. No 76-1/1,<br>
+                      Hig Duplex No. 390, Opp.,<br>
+                      Subhamastu Function Hall,<br>
+                      HB Colony, Vijayawada - 12, Andhra Pradesh.<br>
+                      Tel: <a class="email-link" href="callto:91234567890">+91 234-567-890</a> <br>
+                      Cel: <a class="email-link" href="callto:91234567890">+91 9946062128 </a> <br>
+                      Email: <a class="email-link" href="mailto:info@vedusmart.com">info@vedusmart.com</a>
+                    </p>
                 </div>
             </div>
         </div>
