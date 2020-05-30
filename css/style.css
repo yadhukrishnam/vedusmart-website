@@ -7,7 +7,8 @@ blockquote:before,blockquote:after,q:before,q:after{content:'';content:none;}
 
 body {
     font-family: Roboto, sans-serif;
-    color: #FFF
+    color: #FFF;
+    overflow-x: hidden;
 }
 
 ol,ul{list-style:none;margin:0px;padding:0px;}
@@ -374,6 +375,10 @@ footer:after {
 .copyright {
     background: #18191a;
     padding: 25px
+}
+
+.copyright p {
+    font-size: 12px;
 }
 
 /* start soc_icons */
