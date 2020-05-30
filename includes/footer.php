@@ -79,7 +79,7 @@
         <div class="container">
             <div class="row text-center">
                 <div class="col-sm-12">
-                  <p class="">Web Design by <a href="http://www.randlimited.com/">Rand Technologies Pvt Ltd.</a></p>
+                  <p style="font-size:12px">Copyright &copy; 2020. All rights reserved. Web Design by <a href="http://www.randlimited.com/">Rand Technologies Pvt Ltd.</a></p>
                     <div class="soc_icons">
                     <ul>
                         <li><a class="icon1" href="index.html#" target="_blank"></a></li>
