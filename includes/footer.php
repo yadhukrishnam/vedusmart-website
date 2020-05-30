@@ -52,9 +52,9 @@
                 <div class="col-sm-3">
                     <h3>Useful Info</h3>
                     <ul>
-                      <li><a href="demo.php">Live Demo</a></li>
+                      <li><a href="educational-software-demo.php">Live Demo</a></li>
                       <li><a href="educational-software.php">Educational Software</a></li>
-                      <li><a href="educational-software.php">Ionized Alkaline Water Purifier</a></li>
+                      <li><a href="alkaline-water-purifier.php">Ionized Alkaline Water Purifier</a></li>
                       <li><a href="healthcare-products.php">Healthcare Products</a></li>
                       <li><a href="images/VedusmartPlan.pdf"><img src="images/pdf.png"></a></li>
                   </ul>
