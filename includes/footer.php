@@ -70,7 +70,7 @@
                       Subhamastu Function Hall,<br>
                       HB Colony, Vijayawada - 12, Andhra Pradesh.<br>
                       Tel: <a class="email-link" href="callto:91234567890">+91 234-567-890</a> <br>
-                      Cel: <a class="email-link" href="callto:91234567890">+91 7702526569 </a> <br>
+                      Cel: <a class="email-link" href="callto:91234567890">+91 9946062128 </a> <br>
                       Email: <a class="email-link" href="mailto:info@vedusmart.com">info@vedusmart.com</a>
                     </p>
                 </div>

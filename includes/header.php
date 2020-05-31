@@ -85,15 +85,21 @@
                     <p></p>
                   </div>
                 </div>
-                <div class="carousel-item">
+                 <div class="carousel-item">
                   <img src="images/slider2.jpg" class="d-block w-100" alt="...">
+                  <div class="carousel-caption d-none d-md-block">
+                    <h5></h5>
+                    <p></p>
+                  </div>
+				<div class="carousel-item">
+                  <img src="images/slider3.jpg" class="d-block w-100" alt="...">
                   <div class="carousel-caption d-none d-md-block">
                     <h5></h5>
                     <p></p>
                   </div>
                 </div>
                 <div class="carousel-item">
-                  <img src="images/slider3.jpg" class="d-block w-100" alt="...">
+                  <img src="images/slider4.jpg" class="d-block w-100" alt="...">
                   <div class="carousel-caption d-none d-md-block">
                     <h5></h5>
                     <p></p>
