@@ -18,6 +18,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css' />
     <link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css' />
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" rel="stylesheet" />
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" type="text/css" href="css/boxCss.css">
   </head>
@@ -30,8 +31,8 @@
                     </div>
                     <div class="col-sm-3 top-form">
                         <br>
-                        <a href="http://edusmarte.com/member/" class="green-btn">REGISTER NOW</a>
-                        <a href="http://edusmarte.com/member/" class="green-btn">SIGN IN</a>
+                        <a href="http://edusmarte.com/member/" class="green-btn"><span class="fa fa-star"></span> REGISTER NOW</a>
+                        <a href="http://edusmarte.com/member/" class="green-btn"><span class="fa fa-lock"></span> SIGN IN</a>
                     </div>
                 </div>
 
@@ -85,12 +86,13 @@
                     <p></p>
                   </div>
                 </div>
-                 <div class="carousel-item">
-                  <img src="images/slider2.jpg" class="d-block w-100" alt="...">
+                <div class="carousel-item">
+                  <img src="images/slider4.jpg" class="d-block w-100" alt="...">
                   <div class="carousel-caption d-none d-md-block">
                     <h5></h5>
                     <p></p>
                   </div>
+                </div>
 				<div class="carousel-item">
                   <img src="images/slider3.jpg" class="d-block w-100" alt="...">
                   <div class="carousel-caption d-none d-md-block">
@@ -99,7 +101,7 @@
                   </div>
                 </div>
                 <div class="carousel-item">
-                  <img src="images/slider4.jpg" class="d-block w-100" alt="...">
+                  <img src="images/slider2.jpg" class="d-block w-100" alt="...">
                   <div class="carousel-caption d-none d-md-block">
                     <h5></h5>
                     <p></p>

@@ -154,6 +154,10 @@ header
     text-align: center;
 }
 
+.top-form span {
+  float: left;
+}
+
 .green-btn {
     font-family: 'Roboto', sans-serif;
     color: #ffffff !important;
@@ -188,7 +192,7 @@ header
     -o-box-shadow: 0px 56px 36px -60px #121D12;
     margin-top: 20px;
     transition: all 0.2s ease-in-out;
-    
+
 }
 
 .box img {
@@ -243,7 +247,6 @@ header
     color: #323A45;
     text-align: center;
     text-transform: uppercase;
-    background: url(../images/bg-h2.png) no-repeat center;
 }
 
 .products-heading h2 {

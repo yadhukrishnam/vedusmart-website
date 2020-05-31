@@ -32,7 +32,7 @@
         <div class="container-fluid">
             <div class="row content">
                 <div class="col-sm-3">
-                    <h3>Business Tips</h3>
+                    <h3><span class="fa fa-quote-left"></span> Business Tips</h3>
                     <p>Focus on leads, not sales.<br>
                           Don't sell products, provide solutions.<br>
                           Always optimize your pricing. Hire friendly customer-facing staff.<br>
@@ -42,36 +42,42 @@
                   <img src="images/logo.png" class="footer-logo" />
                 </div>
                 <div class="col-sm-3">
-                    <h3>Quick Links</h3>
+                    <h3><span class="fa fa-bookmark"></span> Quick Links</h3>
                       <ul>
-                          <li><a href="/">Home</a></li>
-                          <li><a href="about-vedusmart.php">About V-edusmart</a></li>
-                          <li><a href="images/VedusmartPlan.pdf">Business Opportunity</a></li>
-                          <li><a href="contact-us.php">Contact Us</a></li>
-                          <li><a href="legal-information.php">Legal</a></li>
+                          <li><a href="/"><span class="fa fa-chevron-right"></span> Home</a></li>
+                          <li><a href="about-vedusmart.php"><span class="fa fa-chevron-right"></span>  About V-edusmart</a></li>
+                          <li><a href="images/VedusmartPlan.pdf"><span class="fa fa-chevron-right"></span>Business Opportunity</a></li>
+                          <li><a href="contact-us.php"><span class="fa fa-chevron-right"></span> Contact Us</a></li>
+                          <li><a href="legal-information.php"><span class="fa fa-chevron-right"></span> Legal</a></li>
                       </ul>
                 </div>
                 <div class="col-sm-3">
-                    <h3>Useful Info</h3>
+                    <h3><span class="fa fa-map-pin"></span> Useful Info</h3>
                     <ul>
-                      <li><a href="educational-software-demo.php">Live Demo</a></li>
-                      <li><a href="educational-software.php">Educational Software</a></li>
-                      <li><a href="alkaline-water-purifier.php">Ionized Alkaline Water Purifier</a></li>
-                      <li><a href="healthcare-products.php">Healthcare Products</a></li>
-                      <li><a href="images/VedusmartPlan.pdf"><img src="images/pdf.png"></a></li>
+                      <li><a href="educational-software-demo.php"><span class="fa fa-chevron-right"></span> Live Demo</a></li>
+                      <li><a href="educational-software.php"><span class="fa fa-chevron-right"></span> Educational Software</a></li>
+                      <li><a href="alkaline-water-purifier.php"><span class="fa fa-chevron-right"></span> Ionized Alkaline Water Purifier</a></li>
+                      <li><a href="healthcare-products.php"><span class="fa fa-chevron-right"></span> Healthcare Products</a></li>
+                      <li><a href="images/VedusmartPlan.pdf"><span class="fa fa-download"></span> Business Plan</li>
                   </ul>
                 </div>
                 <div class="col-sm-3">
-                    <h3>Contact Us</h3>
+                    <h3><span class="fa fa-plane"></span> Contact Us</h3>
                     <p>
                       V-edusmart Infotech Pvt Ltd, <br>
                       D. No 76-1/1,<br>
                       Hig Duplex No. 390, Opp.,<br>
                       Subhamastu Function Hall,<br>
-                      HB Colony, Vijayawada - 12, Andhra Pradesh.<br>
+                      HB Colony, Vijayawada - 12,<br> Andhra Pradesh.<br>
+
                       Tel: <a class="email-link" href="callto:91234567890">+91 234-567-890</a> <br>
                       Cel: <a class="email-link" href="callto:91234567890">+91 9946062128 </a> <br>
-                      Email: <a class="email-link" href="mailto:info@vedusmart.com">info@vedusmart.com</a>
+                      Email: <a class="email-link" href="mailto:info@vedusmart.com">info@vedusmart.com</a><br>
+
+                      <a class="email-link" href="callto:91234567890"><span class="fa fa-phone"></span> +91 234-567-890</a> <br>
+                      <a class="email-link" href="callto:91234567890"><span class="fa fa-phone"></span> +91 7702526569 </a> <br>
+                      <a class="email-link" href="mailto:info@vedusmart.com"><span class="fa fa-envelope"></span> info@vedusmart.com</a>
+
                     </p>
                 </div>
             </div>
