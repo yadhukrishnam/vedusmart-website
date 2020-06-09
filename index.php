@@ -90,7 +90,7 @@
           <div class="container">
               <div class="content">
                   <div class="products-heading">
-                   <h2>AUTOPOOL ACHIEVERS</h2>
+                   <h2>TWO STAR ACHIEVERS</h2>
                 </div>
                 <div class="row">
                   <div class="col-sm-3">
@@ -108,7 +108,7 @@
                   <div class="col-sm-3">
                       <div class="box">
                           <img src="images/w3.jpg" />
-                          <h2>M. Rashid</h2>
+                          <h2>Karunakar Rao</h2>
                       </div>
                   </div>
                    <div class="col-sm-3">

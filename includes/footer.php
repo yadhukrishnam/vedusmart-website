@@ -75,7 +75,7 @@
                       Email: <a class="email-link" href="mailto:info@vedusmart.com">info@vedusmart.com</a><br>
 
                       <a class="email-link" href="callto:91234567890"><span class="fa fa-phone"></span> +91 234-567-890</a> <br>
-                      <a class="email-link" href="callto:91234567890"><span class="fa fa-phone"></span> +91 7702526569 </a> <br>
+                      <a class="email-link" href="callto:919946062128"><span class="fa fa-phone"></span> +91 9946062128 </a> <br>
                       <a class="email-link" href="mailto:info@vedusmart.com"><span class="fa fa-envelope"></span> info@vedusmart.com</a>
 
                     </p>
