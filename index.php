@@ -93,49 +93,49 @@
                    <h2>TWO STAR ACHIEVERS</h2>
                 </div>
                 <div class="row">
-                  <div class="col-sm-3">
+                  <div class="col-sm-2">
                     <div class="box">
                         <img src="images/w1.jpg" />
-                        <h2>Harinath</h2>
+                        <h6>Harinath</h6>
                     </div>
                   </div>
-                  <div class="col-sm-3">
+                  <div class="col-sm-2">
                       <div class="box">
                           <img src="images/w2.jpg" />
-                          <h2>Dileep Kumar</h2>
+                          <h6>Dileep Kumar</h6>
                       </div>
                   </div>
-                  <div class="col-sm-3">
+                  <div class="col-sm-2">
                       <div class="box">
                           <img src="images/w3.jpg" />
-                          <h2>Karunakar Rao</h2>
+                          <h6>Karunakar Rao</h6>
                       </div>
                   </div>
-                   <div class="col-sm-3">
+                   <div class="col-sm-2">
                       <div class="box">
                           <img src="images/w4.jpg" />
-                          <h2>Denton Gamble</h2>
+                          <h6>Denton Gamble</h6>
                       </div>
                   </div>
-				  <div class="col-sm-3">
+				           <div class="col-sm-2">
                       <div class="box">
                           <img src="images/w5.jpg" />
-                          <h2>Ashar Rushdie</h2>
+                          <h6>Ashar Rushdie</h6>
                       </div>
                   </div>
-				    <div class="col-sm-3">
-                      <div class="box">
-                          <img src="images/w6.jpg" />
-                          <h2>Rashid</h2>
+        				  <div class="col-sm-2">
+                              <div class="box">
+                                  <img src="images/w6.jpg" />
+                                  <h6>Rashid</h6>
+                              </div>
+                          </div>
+        				  <div class="col-sm-2">
+                              <div class="box">
+                                  <img src="images/w7.jpg" />
+                                  <h6>Hameed</h6>
+                              </div>
+                          </div>
                       </div>
                   </div>
-				  <div class="col-sm-3">
-                      <div class="box">
-                          <img src="images/w7.jpg" />
-                          <h2>Hameed</h2>
-                      </div>
-                  </div>
-              </div>
-          </div>
       </section>
 <?php include ('includes/footer.php'); ?>
