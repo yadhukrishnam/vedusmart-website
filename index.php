@@ -114,7 +114,25 @@
                    <div class="col-sm-3">
                       <div class="box">
                           <img src="images/w4.jpg" />
-                          <h2>S. K. Hameed</h2>
+                          <h2>Denton Gamble</h2>
+                      </div>
+                  </div>
+				  <div class="col-sm-3">
+                      <div class="box">
+                          <img src="images/w5.jpg" />
+                          <h2>Ashar Rushdie</h2>
+                      </div>
+                  </div>
+				    <div class="col-sm-3">
+                      <div class="box">
+                          <img src="images/w6.jpg" />
+                          <h2>Rashid</h2>
+                      </div>
+                  </div>
+				  <div class="col-sm-3">
+                      <div class="box">
+                          <img src="images/w7.jpg" />
+                          <h2>Hameed</h2>
                       </div>
                   </div>
               </div>

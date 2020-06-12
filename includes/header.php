@@ -46,24 +46,27 @@
               <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav">
                   <li class="nav-item active">
-                    <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="https://www.vedusmart.com">Home <span class="sr-only">(current)</span></a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="about-vedusmart.php">About Us</a>
+                    <a class="nav-link" href="https://www.vedusmart.com/about-vedusmart.php">About Us</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="VedusmartPlan.pdf">Business</a>
+                    <a class="nav-link" href="https://www.vedusmart.com/VedusmartPlan.pdf">Business</a>
                   </li>
                   <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Products</a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                      <a class="dropdown-item" href="educational-software.php">Educational Software</a>
-                      <a class="dropdown-item" href="healthcare-products.php">Healthcare</a>
-                      <a class="dropdown-item" href="alkaline-water-purifier.php">Alkaline Water Purifier</a>
+                      <a class="dropdown-item" href="https://www.vedusmart.com/educational-software.php">Educational Software</a>
+                      <a class="dropdown-item" href="https://www.vedusmart.com/healthcare-products.php">Healthcare</a>
+                      <a class="dropdown-item" href="https://www.vedusmart.com/alkaline-water-purifier.php">Alkaline Water Purifier</a>
                      </div>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="contact-us.php">Contact Us</a>
+                    <a class="nav-link" href="#">Gallery</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="https://www.vedusmart.com/contact-us.php">Contact Us</a>
                   </li>
                 </ul>
               </div>

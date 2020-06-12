@@ -44,21 +44,22 @@
                 <div class="col-sm-3">
                     <h3><span class="fa fa-bookmark"></span> Quick Links</h3>
                       <ul>
-                          <li><a href="/"><span class="fa fa-chevron-right"></span> Home</a></li>
-                          <li><a href="about-vedusmart.php"><span class="fa fa-chevron-right"></span>  About V-edusmart</a></li>
-                          <li><a href="images/VedusmartPlan.pdf"><span class="fa fa-chevron-right"></span>Business Opportunity</a></li>
-                          <li><a href="contact-us.php"><span class="fa fa-chevron-right"></span> Contact Us</a></li>
-                          <li><a href="legal-information.php"><span class="fa fa-chevron-right"></span> Legal</a></li>
+                          <li><a href="https://www.vedusmart.com/"><span class="fa fa-chevron-right"></span> Home</a></li>
+                          <li><a href="https://www.vedusmart.com/about-vedusmart.php"><span class="fa fa-chevron-right"></span>  About V-edusmart</a></li>
+                          <li><a href="https://www.vedusmart.com/VedusmartPlan.pdf"><span class="fa fa-chevron-right"></span>Business Opportunity</a></li>
+                          <li><a href="https://www.vedusmart.com/contact-us.php"><span class="fa fa-chevron-right"></span> Contact Us</a></li>
+                          <li><a href="https://www.vedusmart.com/legal-information.php"><span class="fa fa-chevron-right"></span> Legal</a></li>
+                          <li><a href="#"><span class="fa fa-chevron-right"></span> Gallery</a></li>
                       </ul>
                 </div>
                 <div class="col-sm-3">
                     <h3><span class="fa fa-map-pin"></span> Useful Info</h3>
                     <ul>
-                      <li><a href="educational-software-demo.php"><span class="fa fa-chevron-right"></span> Live Demo</a></li>
-                      <li><a href="educational-software.php"><span class="fa fa-chevron-right"></span> Educational Software</a></li>
-                      <li><a href="alkaline-water-purifier.php"><span class="fa fa-chevron-right"></span> Ionized Alkaline Water Purifier</a></li>
-                      <li><a href="healthcare-products.php"><span class="fa fa-chevron-right"></span> Healthcare Products</a></li>
-                      <li><a href="images/VedusmartPlan.pdf"><span class="fa fa-download"></span> Business Plan</li>
+                      <li><a href="https://www.vedusmart.com/educational-software-demo.php"><span class="fa fa-chevron-right"></span> Live Demo</a></li>
+                      <li><a href="https://www.vedusmart.com/educational-software.php"><span class="fa fa-chevron-right"></span> Educational Software</a></li>
+                      <li><a href="https://www.vedusmart.com/alkaline-water-purifier.php"><span class="fa fa-chevron-right"></span> Ionized Alkaline Water Purifier</a></li>
+                      <li><a href="https://www.vedusmart.com/healthcare-products.php"><span class="fa fa-chevron-right"></span> Healthcare Products</a></li>
+                      <li><a href="https://www.vedusmart.com/VedusmartPlan.pdf"><span class="fa fa-download"></span> Business Plan</li>
                   </ul>
                 </div>
                 <div class="col-sm-3">
@@ -70,12 +71,9 @@
                       Subhamastu Function Hall,<br>
                       HB Colony, Vijayawada - 12,<br> Andhra Pradesh.<br>
 
-                      Tel: <a class="email-link" href="callto:91234567890">+91 234-567-890</a> <br>
-                      Cel: <a class="email-link" href="callto:91234567890">+91 9946062128 </a> <br>
-                      Email: <a class="email-link" href="mailto:info@vedusmart.com">info@vedusmart.com</a><br>
-
                       <a class="email-link" href="callto:91234567890"><span class="fa fa-phone"></span> +91 234-567-890</a> <br>
-                      <a class="email-link" href="callto:919946062128"><span class="fa fa-phone"></span> +91 9946062128 </a> <br>
+                      <a class="email-link" href="callto:919946062128"><span class="fa fa-phone"></span> +91 9515576569 </a> <br>
+					  <a class="email-link" href="callto:919946062128"><span class="fa fa-phone"></span> +91 9946062128 </a> <br>
                       <a class="email-link" href="mailto:info@vedusmart.com"><span class="fa fa-envelope"></span> info@vedusmart.com</a>
 
                     </p>
@@ -87,7 +85,7 @@
         <div class="container">
             <div class="row text-center">
                 <div class="col-sm-12">
-                  <p>Copyright &copy; 2020. All rights reserved. Web Design by <a href="http://www.randlimited.com/">Rand Technologies Pvt Ltd.</a></p>
+                  <p>Copyright &copy; 2020. All rights reserved. Web Design by <a href="https://www.randlimited.com/">Rand Technologies Pvt Ltd.</a></p>
                     <div class="soc_icons">
                     <ul>
                         <li><a class="icon1" href="index.html#" target="_blank"></a></li>
